@@ -46,3 +46,12 @@ Order list
 |id |name |Age |
 |---|-----|----|
 |01 |Chandy|19 |
+
+### Coode
+```python
+for i in range(10):
+    print(i)
+```
+```html
+<h1>Headind</h1>
+```
